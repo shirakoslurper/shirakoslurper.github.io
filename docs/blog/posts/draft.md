@@ -1,13 +1,9 @@
 ---
 date:
-  created: 2024-01-01
+  created: 2025-02-05
 draft: true
 ---
 
-# Happy new year!
+# Trattoria
 
-Happy 2024 to everyone. Wishing you all the best!
-<!-- more -->
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua.
+Trattoria ------ is probably one of the most special places on earth.

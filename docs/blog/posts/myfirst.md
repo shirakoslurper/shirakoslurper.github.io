@@ -1,29 +1,23 @@
 ---
 date:
-  created: 2023-12-31
-  updated: 2024-01-02
+  created: 2025-02-05
+  updated: 2025-02-05
 readtime: 15
 pin: true
 links:
   - Homepage: index.md#project-layout
   - Blog index: blog/index.md
-  - External links:
-    - Material documentation: https://squidfunk.github.io/mkdocs-material
+  # - External links:
+  #   - Material documentation: https://squidfunk.github.io/mkdocs-material
 categories:
-  - Holidays
+  - Slice of Life
 tags:
-  - new year
-  - hogmanay
-  - festive season
+  - food
 authors:
-  - team
-slug: ny-eve
+  - shirakoslurper
+# slug: ny-eve
 ---
 
-# Happy new years eve!
+# Starting the blog
 
-We hope you are all having fun and wish you all the best for the new year!
-<!-- more -->
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua.
+I thought I should have a single place to aggregate all my interests.
