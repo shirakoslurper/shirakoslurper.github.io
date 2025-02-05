@@ -1,9 +1,18 @@
 ---
 date:
   created: 2025-02-05
+links:
+  - Homepage: index.md#project-layout
+  - Blog index: blog/index.md
+categories:
+  - food
+tags:
+  - japan
+authors:
+  - shirakoslurper
 ---
 
-# Food Research in Japan
+# Some thoughts while researching restaurants in Japan
 
 You have to put in a bit more legwork when you're not plugged into the food scene (industry connections) and have a more limited budget to work with.
 
@@ -28,3 +37,5 @@ As for local food scenes, you can bet on one of the whales who pin the locations
 Also, chefs follow chefs, and distributors are fairly reliable for their tastes - though cross referencing never hurts. 
 
 > Chefs following chefs is especially reliable for genre based food. And It's useful when you're hunting down a place you don't know the name of.
+
+You can fall back on enthusiast forums and Tabelog but tis more about quality than the je nais se quoi of a place.
