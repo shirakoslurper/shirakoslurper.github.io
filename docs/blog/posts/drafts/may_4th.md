@@ -1,13 +1,8 @@
 ---
 date:
-  created: 2024-05-04
+  created: 2025-02-05
 ---
 
-# May the 4th be with you!
+# A japan research compilation
 
-Happy Star Wars Day to all!
-
-<!-- more -->
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua.
+Hai

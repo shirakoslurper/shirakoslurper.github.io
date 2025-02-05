@@ -1,4 +1,3 @@
-# The Material Team
+# shirakoslurper
 
-A small group of people dedicated to making writing documentation easy, if
-not outright fun! Here are some of the things we have blogged about:
+CS grad with zero direction in life.
