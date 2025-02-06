@@ -7,8 +7,6 @@ pin: true
 links:
   - Homepage: index.md#project-layout
   - Blog index: blog/index.md
-  # - External links:
-  #   - Material documentation: https://squidfunk.github.io/mkdocs-material
 categories:
   - thoughts
 tags:

@@ -1,15 +1,5 @@
 # shirakoslurper's page
 
-## Commands
+## why
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+I'd like for the world to be a slightly warmer place, and I'd like to help anyone who just might end up doing so. Tiny cafe. Six seat restaurant. Als sorts of ateliers.
