@@ -5,7 +5,7 @@ date:
 readtime: 15
 pin: false
 links:
-  - Homepage: index.md#project-layout
+  - Homepage: index.md
   - Blog index: blog/index.md
 categories:
   - food
@@ -19,7 +19,7 @@ authors:
 
 You have to put in a bit more legwork when you're not plugged into the food scene (industry connections) and have a more limited budget to work with.
 
-I like to look for simple, delicious, slightly strange, and highly personal food. + a bit of underdogicity. And for chefs who, by cooking what they love, are making a case for the merits of something wonderful as it exists.
+I like to look for simple, slightly strange, and highly personal food. + a bit of underdog energy. And for chefs who, by cooking what they love, are making a case for the merits of something wonderful as it exists.
 
 > Ex: A sushi chef who wants to highlight less appreciated fish he believes are deilcious and puts in the extra time processing and offering at a low cost. Some dude in Japan uncompromisingly cooking a lesser-known regional Italian cuisine who doesn't want any reviews uploaded to preserve the goodness of the food, spirit, and atmosphere.
 
@@ -44,3 +44,4 @@ Also, chefs follow chefs, and distributors are fairly reliable for their tastes 
 > Chefs following chefs is especially reliable for searching for genre based food. This is especially useful when you're hunting down a place you don't know the name of.
 
 You can fall back on enthusiast forums and Tabelog but those are more about limiting the number of false-positives than real quality or je nais se quoi of a place. The magic of a restaurant is often not expressed within ratings.
+

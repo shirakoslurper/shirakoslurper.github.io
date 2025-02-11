@@ -5,7 +5,7 @@ date:
 readtime: 15
 pin: true
 links:
-  - Homepage: index.md#project-layout
+  - Homepage: index.md
   - Blog index: blog/index.md
 categories:
   - thoughts
@@ -26,7 +26,6 @@ At the moment, I am:
 - watching an unhealthy (?) amount of anime
 - refining my restaurant search techniques
 - developing a perspective on food
-- learning the basics of cooking
-- wondering what to do with unemployment
+- cooking
 - trying to score a 177+ on the LSAT
 - reaching for professional illustrator level

@@ -1,8 +1,9 @@
 ---
 date:
   created: 2025-02-06
+  updated: 2025-02-06
 links:
-  - Homepage: index.md#project-layout
+  - Homepage: index.md
   - Blog index: blog/index.md
 categories:
   - food

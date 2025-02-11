@@ -1,5 +1,11 @@
 # shirakoslurper's page
 
-## why
+## bio
 
-I'd like for the world to be a slightly warmer place, and I'd like to help anyone who just might end up doing so. Tiny cafe. Six seat restaurant. Als sorts of ateliers.
+CS Grad and art school transfer-out who hasn't got a hold of things, yet.
+
+Favorite things:
+
+- tiny cafes
+- six seat restaurants
+- anywhere where it's one dude or a couple doing everything
