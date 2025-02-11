@@ -1,5 +1,7 @@
 # Sketches
 
+I plan to scan more of my notebook scraps!
+
 ![](./assets/sketches/shadetest.PNG)
 
 ![](./assets/sketches/twammy.PNG)

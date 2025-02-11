@@ -13,6 +13,7 @@ tags:
   - japan
 authors:
   - shirakoslurper
+draft: true
 ---
 
 # Some thoughts while researching restaurants in Japan
@@ -23,9 +24,7 @@ I like to look for simple, slightly strange, and highly personal food. + a bit o
 
 > Ex: A sushi chef who wants to highlight less appreciated fish he believes are deilcious and puts in the extra time processing and offering at a low cost. Some dude in Japan uncompromisingly cooking a lesser-known regional Italian cuisine who doesn't want any reviews uploaded to preserve the goodness of the food, spirit, and atmosphere.
 
-> This can go a couple of ways, however. There's a difference between being a genuine ambassador for something and trying to reframe something as novel. The latter often leads to retreading hundreds of years of history in a lab and acting as if you've invented fermentation, or to sleazy hyper-commercialised regional Italian restaurants attracting egos an Italian mother couldn't love. To each their own, but those sort of things don't tickle my fancy.
-
-> There's also feigned rusticism. Kind of have a soft spot for these spots cause they're slick and a good time - but I think truly earnest is best. If the chef is a born and bred Orientalist and can't get it out of his blood, fine. If he'll die on that hill, even better. Because it's trendy? Nope. Prestigious? Nope.
+This can go a couple of ways, however. There's a difference between being a genuine ambassador for something and trying to reframe something as novel. The latter often leads to retreading hundreds of years of history in a lab and acting as if you've invented fermentation, or to sleazy hyper-commercialised regional Italian restaurants attracting egos an Italian mother couldn't love. To each their own, but those sort of things don't tickle my fancy.
 
 Also I like when I have to put in little effort to appreciate what's happening. Why not learn when you're drowning in information anyways.
 

@@ -23,9 +23,9 @@ I also wanted a place where I could practice condensing my thoughts so I can hol
 
 At the moment, I am:
 - learning Japanese
-- watching an unhealthy (?) amount of anime
+- watching an unhealthy (?) amount of anime but not in a weird way, I hope
 - refining my restaurant search techniques
 - developing a perspective on food
 - cooking
-- trying to score a 177+ on the LSAT
-- reaching for professional illustrator level
+- trying to score a 177+ on the LSAT (lofty goals)
+- reaching for professional illustrator level in my free time

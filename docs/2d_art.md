@@ -1,6 +1,8 @@
 # 2D Art
 
-What I could scrounge.
+Some completed stuff. Some commission and school work.
+
+I'm making it a goal to document more of my stuff. I mostly just sketch now due to dropping art as a career option, but I think it would be nice to be able to do some semi-professional stuff on the side some day.
 
 ![digital](./assets/2d/portrait.png)
 
