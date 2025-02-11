@@ -19,17 +19,15 @@ authors:
 
 The single most intensive project I've undertaken is [arbisui](https://github.com/shirakoslurper/arbisui), a Sui DEX arbitrage bot.
 
-To be honest, the codebase is a mess outside of the tooling, and things could be done a hell of a lot better. However, I's say I s did a fair bit of pioneering on the chain, though I didn't take it to the massive profit finish line.
+To be honest, the codebase is a mess outside of the tooling, and things could be done a hell of a lot better. However, I think I did a fair bit of pioneering on the chain, though I didn't take it to the massive profit finish line.
 
 I was somewhat familiar with MEV and on-chain arbitrage due to sort of finding myself in the right Twitter circles and Discords, and though I'd always wanted to try, it felt a bit daunting to my very junior engineer self - increasingly more so since competition on the big chains included the known big quant firms and whatnot.
 
-I hadn't really done much in terms of completing projects, and though I had a CS degree almost tucked into my belt, my lack of professional experience and exposure meant there was nothing compensating for that. But the folks in the field said sometimes "easier" money comes around. New chains pop up with smaller but less competitive opportunities, the tradeoff being that you have to "eat glass" and work around lack of dev-tooling, documents, young badly-written protocols, node access, infrastructure, etc. Enter uncharted territory.
-
-By the time the SUI chain went public, other chains had already stuff like [flashbots](https://www.flashbots.net), which I won't get into the details of but basically on those chains it was no longer really first come first serve (better for newer less well-capitalized players). Sui did not, however, and I'm still not sure if it does (haven't checked), but this meant I had a chance.
+I hadn't really done much in terms of completing projects, and though I had a CS degree almost tucked into my belt, my lack of professional experience and exposure meant there was nothing compensating for that. But the folks in the field said sometimes "easier" money comes around. New chains pop up with smaller but less competitive opportunities, the tradeoff being that you have to "eat glass" and work around lack of dev-tooling, documents, young badly-written protocols, node access, infrastructure, etc. Enter uncharted territory, a good place to skill up.
 
 But, oof, lotsa stuff had to be done. 
 
-This will be more of a listing of problems I semi-dealt with. "Semi" because I solved them up to the point of the existing infrastructure not supporting more complete solutions by the time I dropped the project. Problems sort of glossed over on the github readme. I private it everytime I see some bright-eyed kid star it cause it does contain a lot of useful stuff and tooling that's still not available.
+This will be more of a listing of problems I semi-dealt with. "Semi" because I solved them up to the point of the existing infrastructure not supporting more complete solutions by the time I dropped the project. The problems have been sort of glossed over on the github readme. 
 
 TBC...
 
