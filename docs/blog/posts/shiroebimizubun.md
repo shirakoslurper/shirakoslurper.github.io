@@ -31,6 +31,8 @@ It makes sense. There's a lot working against having quality raw pacific mackere
 
 My best bet would be to hit the docks, settle on the most quality-obsessed fisherman bartering mackerel available, and roll the die on the fish.
 
+Either that or spend 50 bucks / lb on the stuff from Toyosu via Yama. + shipping.
+
 This inconvenience had me thinking about how nice it would be for a local business to focus solely on *producing* (from catch to sale) high quality, FDA compliant, easily accessible (deals with local Asian grocery chains a la HMart, Tokyo Central, 99 Ranch) intendednt-for-raw-consumption mackerel. And make a living off the single product alone (it's a staple innit - and word gets around certain Asian communities fast regarding food products). And packaging the product nicely, too. Perhaps running a sakana-ya a la [Osakana NYC](https://osakana.nyc) for extra local brownie points.
 
 Needless to say, I've been orbiting the idea of single product sourcing and processing.
