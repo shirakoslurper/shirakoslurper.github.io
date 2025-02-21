@@ -13,7 +13,7 @@ authors:
   - shirakoslurper
 ---
 
-# Notes on Sourcing Japanese Fish in the States as a Home Ched
+# Notes on Sourcing Japanese Fish in the States as a Home Chef
 
 The most involved sushi nerds in the states tend not to compromise on wild Japanese fish.
 
