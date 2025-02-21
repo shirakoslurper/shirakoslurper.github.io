@@ -62,4 +62,3 @@ nav:
   - Blog:
      - blog/index.md
      - blog/tags.md
-  - Tags: tags.md

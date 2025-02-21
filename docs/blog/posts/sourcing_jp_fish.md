@@ -1,0 +1,50 @@
+---
+date:
+  created: 2025-02-20
+  updated: 2025-02-20
+links:
+  - Homepage: index.md
+  - Blog index: blog/index.md
+categories:
+  - food
+tags:
+  - searching
+authors:
+  - shirakoslurper
+---
+
+# Notes on Sourcing Japanese Fish in the States as a Home Ched
+
+The most involved sushi nerds in the states tend not to compromise on wild Japanese fish.
+
+So, generally a hard pass on the likes of the non-Japanese origin and/or farmed fish which are generally what the more budget-minded r/sushi folks reach for:
+
+- Riviera Seafood Club
+- Honolulu Fish Company
+- Catalina Offshore Products
+
+It's not easy to get your hands on hand-selected imported Japanese seafood for a non-eyewatering price, though. Especially when you factor in shipping.
+
+A la the big 'uns:
+
+- Regalis: Somewhat limited. No mystery box. Pricey.
+- Yama: Outta New York. Decent selection. $250 mystery omakase box. Delivery is like 65 bucks from L.A., though.
+- Noble Fresh Cart: Limited selected (just 2 uni varieties at the time of writing).
+- True World Seafood's Toyosu Express: Only pricey Madai and smoked Yellowtail at the time of writing.
+- Hokkaido Uni Shop: Pretty wide range of products. Pricey, though. No guarantee on handling once it get's in FedEx's hands. Founder world at True World for a while.
+- Sakasyu: If you are a baller with connections, although some say items like uni cost significantly less than Hokkaido Uni Shop. More of an obscure process to order.
+
+> There's a bit of SEO jockeying around "Toyosu fish" and there's quite a few more sites I didn't yet go through the trouble of vetting but what can you do. Also, depending on where you are, some pickup only spots may be available.
+
+A little resourcesfulness in searching (deferring to "japanese fish order" in place of "Toyosu fish order"), however, gets us to globally shipped Japanese fish for a relative discount. These typically are born from smaller U.S. importers/distributors working with smaller Japanese wholesaling operations out of more obscure ports hoping to establish some presence in the global market. I've even read of chefs working with a dude or two on the grounds at Kyushu fish markets.
+
+I'm not entirely sure about the quality of fish compared to those that come through Toyosu - are these wholesalers getting first pick? 
+
+> A good number of restaurants in Japan selling local ingredients actually have to "buy back" from Toyosu, since it's such a critical and overwhelmingly dominant distribution hub. There are a select few restaurants where this isn't the case - they establish relationships with fisherman or buy from the lcoal port's markets directly. I imagine the costs might also be reduced since costs don't accrue along the supply chain but the amount of resources that have gone into making the chain efficient pose a bit of an unknown factor. I'll have to look into this.
+
+You're especially in luck if you live in L.A., since many of these operations offer pickup and cheaper delivery. + the benefit of being the first port of entry for such products means less of a chance of your orders getting badly handled.
+
+- [Ugi Foods](https://www.ugi-us.com/shop): They've got fish coming directly from Shimane Port and I think a partnership with [Sol Japan](https://en.sol.co.jp) and other wholesalers. This might be inactive... (?) I don't know how "first pick" the fish are and how reliable the selection is, though I imagine it's fairly decent.
+- [Yokose Seafood](https://www.yokose-seafood.com) (Toyama Bay): This is the U.S. output of [Yokose](https://www.kk-yokose.co.jp), a wholesaler in Toyama Bay. Since it's a family business, and since the original business in Japan is quite sizable and handles distribution and packaging of locally sourced ingredients, I can imagine that the quality of the fish and handling is quite good, expecially for local Toyama Bay ingredients (buri, shiro ebi, hotaru ika - they take their pick at the Himi fish market).
+
+I think I'll try my hand at the latter.

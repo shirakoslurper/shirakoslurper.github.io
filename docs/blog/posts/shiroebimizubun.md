@@ -56,3 +56,5 @@ I'm sure there's a lot of press shine to the information I could get, but it's a
 Also interesting is the [accessibility](https://anshindo-d.com/c/shop_category/shop_seafood/shop_seafood_sea) of quality seafood in Japan. You can even [order some spiffy lookin fish on Amazon](https://youtu.be/FeV8Bn91AQc?si=49U_xVc7OAqwVNcv) there.
 
 I'd like to get my hands on Shiro-Ebi Mizubun's products in the States out of curiosity (it's a rare find even in high-end sushi-yas). I suspect Regalis or Sakasyu or Yama Seafoods will be the first to get their hands on the product. Perhaps even Yokose Seafood due to his Toyama Bay connections.
+
+> As for, "what makes is special"? A single product seafood busiess isn't unique - we've got overnight oysters in the U.S. - but something about the relative volatility of the product + the lack of a widespread global retail market for it atm is intriguing.
