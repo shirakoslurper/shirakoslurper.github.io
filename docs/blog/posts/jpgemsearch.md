@@ -34,6 +34,6 @@ The account is run with no filter by the chef.
 It's deeply "gastronomic" in a way.
 And it's caviar distributors seem quite opinionated, too.
 
-You then make your way around those opinion networks and note all the restaurants they deem worth going. Especially for places abroad - you'll often find some places with minimal information on the internet otherwise. It's as close to word-of-mouth as you can get while being antisocial - they've got friends and fixer's you don't.
+You then make your way around those opinion networks and note all the restaurants they deem worth going. Especially for places abroad - you'll often find some places with minimal information on the internet otherwise. It's as close to word-of-mouth as you can get while being antisocial - they've got friends and fixers you don't.
 
 > Higher hit rate when they say something like "x restaurant is one of the few restaurants on the continent cooking at a high-level".
