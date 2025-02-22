@@ -36,7 +36,7 @@ A la the big 'uns:
 
 > There's a bit of SEO jockeying around "Toyosu fish" and there's quite a few more sites I didn't yet go through the trouble of vetting but what can you do. Also, depending on where you are, some pickup only spots may be available.
 
-A little resourcesfulness in searching (deferring to "japanese fish order" in place of "Toyosu fish order"), however, gets us to globally shipped Japanese fish for a relative discount. These typically are born from smaller U.S. importers/distributors working with smaller Japanese wholesaling operations out of more obscure ports hoping to establish some presence in the global market. I've even read of chefs working with a dude or two on the grounds at Kyushu fish markets.
+A little resourcesfulness in searching, however, gets us to globally shipped Japanese fish for a relative discount. These typically are born from smaller U.S. importers/distributors working with smaller Japanese wholesaling operations out of more obscure ports hoping to establish some presence in the global market. I've even read of chefs working with a dude or two on the grounds at Kyushu fish markets.
 
 I'm not entirely sure about the quality of fish compared to those that come through Toyosu - are these wholesalers getting first pick? 
 
