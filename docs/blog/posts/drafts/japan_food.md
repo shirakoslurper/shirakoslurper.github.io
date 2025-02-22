@@ -8,9 +8,10 @@ links:
   - Homepage: index.md
   - Blog index: blog/index.md
 categories:
-  - food
+  - thoughts
 tags:
   - japan
+  - food
 authors:
   - shirakoslurper
 draft: true

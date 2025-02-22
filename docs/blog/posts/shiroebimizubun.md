@@ -6,9 +6,10 @@ links:
   - Homepage: index.md
   - Blog index: blog/index.md
 categories:
-  - food
+  - notes
 tags:
   - sourcing
+  - food
   - japan
 authors:
   - shirakoslurper

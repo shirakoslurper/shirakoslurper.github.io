@@ -6,9 +6,10 @@ links:
   - Homepage: index.md
   - Blog index: blog/index.md
 categories:
-  - food
+  - thoughts
 tags:
   - sushi
+  - food
 authors:
   - shirakoslurper
 ---

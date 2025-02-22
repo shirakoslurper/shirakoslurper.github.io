@@ -6,9 +6,9 @@ links:
   - Homepage: index.md
   - Blog index: blog/index.md
 categories:
-  - food
+  - notes
 tags:
-  - searching
+  - food
 authors:
   - shirakoslurper
 ---
