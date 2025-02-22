@@ -1,7 +1,7 @@
 ---
 date:
   created: 2025-02-20
-  updated: 2025-02-20
+  updated: 2025-02-21
 links:
   - Homepage: index.md
   - Blog index: blog/index.md
@@ -44,7 +44,7 @@ I'm not entirely sure about the quality of fish compared to those that come thro
 
 You're especially in luck if you live in L.A., since many of these operations offer pickup and cheaper delivery. + the benefit of being the first port of entry for such products means less of a chance of your orders getting badly handled.
 
-- [Ugi Foods](https://www.ugi-us.com/shop): They've got fish coming directly from Shimane Port and I think a partnership with [Sol Japan](https://en.sol.co.jp) and other wholesalers. This might be inactive... (?) I don't know how "first pick" the fish are and how reliable the selection is, though I imagine it's fairly decent.
+- [Ugi Foods](https://www.ugi-us.com/shop): They've got fish coming directly from Shimane Port and I think a partnership with [Sol Japan](https://en.sol.co.jp) and other wholesalers. I don't know how "first pick" the fish are and how reliable the selection is, though I imagine it's fairly decent. (Edit: A little diggin around and [Nakaji](https://www.instagram.com/reel/DE3jafvMwjo/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) seems to be coordinating with the folks at Sol Japan to source food from Shimane, so my bet is pretty damn good quality. This isn't on Sol Japan's blog, though I imagine it would be a good addition....)
 - [Yokose Seafood](https://www.yokose-seafood.com) (Toyama Bay): This is the U.S. output of [Yokose](https://www.kk-yokose.co.jp), a wholesaler in Toyama Bay. Since it's a family business, and since the original business in Japan is quite sizable and handles distribution and packaging of locally sourced ingredients, I can imagine that the quality of the fish and handling is quite good, expecially for local Toyama Bay ingredients (buri, shiro ebi, hotaru ika - they take their pick at the Himi fish market).
 
 I think I'll try my hand at the latter.
