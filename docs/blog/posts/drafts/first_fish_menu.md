@@ -1,3 +1,4 @@
+---
 date:
   created: 2025-02-24
   updated: 2025-02-24
@@ -49,7 +50,6 @@ Maybe Shiga Mizukagami rice with less water. A light sweetness since I want to g
 Tokyo Central holds Nanatsuboshi and Akitakomachi.
 
 > [Rice](https://sushiuniversity.jp/basicknowledge/rice) + and interesting [heritage rice project](https://farmwoobo.com).
-
 
 
 
