@@ -17,6 +17,7 @@ authors:
 # Rice Sources
 
 Some decent online sources of rice:
+
 - [The Rice Factory New York](https://trf-ny.com/?srsltid=AfmBOoqQzDLTxzeQWHM_75_4fhuJsHRbNfhhuysrATPPHcVNkD9vUHvW)/[The Rice Factory Los Angeles](https://trf-la.com/?srsltid=AfmBOopE6HYsn4ATt7OU9Dy_xeE8AIAudzAHoNNH5nTYkJrtTR73hk5I): Honolulu spin-off. Japanese rice milled to order. Some rare and naturally grown varieties. Supplies high-end New York restuarants.
 - [KimC Market](https://kimcmarket.com/collections/korean-rice): Seem to be following The Rice Factory's model. Korean rice milled to order. Rare and naturally grown varieties. Suppleis high-end New York restaurants.
 
