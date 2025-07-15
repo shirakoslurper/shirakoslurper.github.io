@@ -92,7 +92,7 @@ CS Grad and art school transfer-out who hasn't got a hold of things, yet.
     - [this walking hawaiian shirt](https://www.instagram.com/yoshiyuk_katsube?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)  who is in charge of the uni section
 
 
-## current Interests:
+## current interests:
 
 - immersion learning Japanese:
     - <3: 
@@ -104,7 +104,16 @@ CS Grad and art school transfer-out who hasn't got a hold of things, yet.
         - [FoodTalkCentral](https://www.foodtalkcentral.com): mostly los angeles food scene
         - [sushilog](https://sushi-blog.com): jp sushi blog site (hidden gems, 2% foreigner type)
         - [jd.514](https://www.instagram.com/jd.514/?utm_source=ig_web_button_share_sheet): co-owner sushi nishinokaze in mtl and fish/caviar distributor and so on - educational and opinionated on traditional foods and pottery
-- tea bowls:
+        - dongbei-style korean bbq (a la xita laotaitai) - would expect to see much more of this is in the u.s. given its popularity in china. we've got yanbian style bbq skewers in the u.s., though, like feng mao in koreatown la. love korea disapora foods.
+        - the industrialization and homogenization of korean food - korean still made soy sauce at home for decades after japan and china deferred to industrial practices (the methods of making soy sauce were more conducive to them and were better done at scale), and even after the industrial soy sauce became available. however, now the majority of korean soy sauce contains hydrolyzed vegetable proteins while japan managed to phase them out of their soy sauces (for the most part).
+        - [korean traditional knowledge portal](https://koreantk.com): for older agricultural + food knowledge. so many variations on doenjang. also a lot of regional foods.
+        - [mike colameco's real food show](https://www.youtube.com/@MikeColamecosRealFoodShow): when you're exploring a restaurant scene it's good to explore what it was like before your time. it's all chefs talk about on podacast lmao. tracing lineages and tracking developments helps you develop some intuition when choosing what to keep your eye on and where to eat.
+        - [eating in translation](https://www.eatingintranslation.com): lovely for tracking food events in new york and ethnic foods
+        - [culinary backstreets](https://culinarybackstreets.com/food-tours/queens/): among the least gatekeep-y food tour sites out there
+        - [everycountryfood](https://everycountryfoodnyc.com): in the name, really
+        - [eattheworldnyc](http://www.eattheworldnyc.com) and [eattheworldla](http://www.eattheworldla.com): jared cohee does excellent work
+        - [eat something new in queens](https://www.facebook.com/groups/228217388961700/): also in the name. when you compare this and something like foodtalkcentral, you kind of realize how much class plays a part in food (the social media that people use is very indicative of class) but also how a love for food and a will to learn about it isn't restricted to those that make a little more お金. a huge chunk of americans might still only have the bear and the menu as a point of reference (often to the point of annoyance for some), but you can learn tons about food (and even more about culture) in conversation with the immigrant proprietors of much more affordable restaurants who tend to be significantly less removed from food as it was (and often is intended to be in restaurants). knowledge about seasonality, quality ingredients, treating those ingredients with respect... (sometimes not immediately apparent in the food they sell - they have to hit a balance of authenticity and marketability out her and are often limited produce wise).
+- tea bowls (not so much anymore - was a bit of LARPing episode but was fun):
     - <3:
         - [Robert Yellin's Yakimono Blog](http://www.e-yakimono.net): well fleshed out and rare english language source on modern jp potters
         - [Misao's Art World: Ceramics](https://www.neuartro.net/陶磁器/): jp blog summary of ceramics + author's favorite pieces
