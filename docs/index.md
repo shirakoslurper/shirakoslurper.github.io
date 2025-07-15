@@ -90,6 +90,8 @@ CS Grad and art school transfer-out who hasn't got a hold of things, yet.
     - there's a dude at [sushi komari](https://www.instagram.com/sushi_comari?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==) in tokyo who is a broker and a chef - utilizes unloved fish
     - [this tuna buyer](https://www.instagram.com/maguro.fujita?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==) who is obsesses with his chihuahua
     - [this walking hawaiian shirt](https://www.instagram.com/yoshiyuk_katsube?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)  who is in charge of the uni section
+- [bar mutsumi](https://www.mutsumi.nyc/barmutsumi)
+    - lovely staff. staff of okatte tanto was there last time. cool place to learn about shochu. bar snacks from hirohisa. wataru there helps at bin bin. staff know their stuff (i don't). 
 
 
 ## current interests:
@@ -117,3 +119,8 @@ CS Grad and art school transfer-out who hasn't got a hold of things, yet.
     - <3:
         - [Robert Yellin's Yakimono Blog](http://www.e-yakimono.net): well fleshed out and rare english language source on modern jp potters
         - [Misao's Art World: Ceramics](https://www.neuartro.net/陶磁器/): jp blog summary of ceramics + author's favorite pieces
+
+
+## things im looking forward to:
+
+- lunch at [jo nyc](https://jo-newyork.com)
