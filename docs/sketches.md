@@ -10,6 +10,8 @@ I plan to scan more of my notebook scraps!
 
 ![](./assets/sketches/blast.jpg)
 
+![](./assets/sketches/as_movement.jpg)
+
 ![](./assets/sketches/fashion_sketch.jpg)
 
 ![](./assets/sketches/her.jpg)
