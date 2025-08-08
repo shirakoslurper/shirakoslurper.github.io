@@ -48,6 +48,9 @@ I plan to scan more of my notebook scraps!
 
 ![](./assets/sketches/scan0016.png)
 
+![](./assets/sketches/scan0066.jpg)
+
+
 <!-- ![](./assets/sketches/scan0017.png)
 
 ![](./assets/sketches/scan0018.png)
