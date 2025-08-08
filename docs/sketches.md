@@ -16,6 +16,18 @@ I plan to scan more of my notebook scraps!
 
 ![](./assets/sketches/her.jpg)
 
+![](./assets/sketches/2025-08-04-05.png)
+
+![](./assets/sketches/2025-08-04-04.png)
+
+![](./assets/sketches/2025-08-04-01.png)
+
+![](./assets/sketches/2025-08-03-02.png)
+
+![](./assets/sketches/2024-08-04-03.png)
+
+![](./assets/sketches/2025-08-05-06.png)
+
 ![](./assets/sketches/dreams.jpg)
 
 ![](./assets/sketches/fight.jpg)
