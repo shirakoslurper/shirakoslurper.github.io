@@ -87,10 +87,10 @@ Team project to automate consolidation and rerouting of shipments. Private repo 
 
 Though none to a professional level.
 
-## test scores (if relevant or informative):
+<!-- ## test scores (if relevant or informative):
 
 - LSAT: 171
-- GRE: 337
+- GRE: 337 -->
 
 ## current interests:
 
