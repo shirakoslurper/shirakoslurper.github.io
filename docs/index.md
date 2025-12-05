@@ -11,7 +11,7 @@ CS and art background. Projects and hobbies. Sketches are worth a gander?
 
 ### [forklore proof of concept](https://github.com/shirakoslurper/bitechain)
 
-A menu-based semantic search engine for traditional restaurants. For long-tail searches of regional foods with more abstract search terms where language barrier and lack of human labeled information might pose a problem. I called it "bitechain" in the repo, but I think "forklore" is a better name.Call. 
+A menu-based semantic search engine for traditional restaurants. For long-tail searches of regional foods with more abstract search terms where language barrier and lack of human labeled information might pose a problem. I called it "bitechain" in the repo, but I think "forklore" is a better name.
 
 ![](./assets/misc/forklore.gif)
 
