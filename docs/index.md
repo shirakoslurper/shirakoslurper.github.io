@@ -2,55 +2,62 @@
 
 ## bio
 
-CS Grad and art school transfer-out who hasn't got a hold of things, yet.
+CS and art background. Projects and hobbies. Sketches are worth a gander?
 
-> Disclaimer: The following is non-exhaustive. Everything on this website is.
+
+<!-- ![makgeolli in a metal bowl](./assets/misc/makgeolli.jpg) -->
 
 ## projects:
 
-- [arbisui: Sui DEX Arbitrage Bot](https://github.com/shirakoslurper/arbisui)
-    - this is really hefty
-    - gonna write more about this (?)
-- [Move Bytecode to Expansion AST Converter](https://github.com/shirakoslurper/move/tree/main/language/move-bytecode-prover)
-    - this was interesting to do
+### [forklore proof of concept](https://github.com/shirakoslurper/bitechain)
+
+A menu-based semantic search engine for traditional restaurants. For long-tail searches of regional foods with more abstract search terms where language barrier and lack of human labeled information might pose a problem. I called it "bitechain" in the repo, but I think "forklore" is a better name.Call. 
+
+![](./assets/misc/forklore.gif)
+
+[Blog post here!](blog/posts/forklore.md)
+
+### [arbisui: Sui DEX Arbitrage Bot](https://github.com/shirakoslurper/arbisui)
+
+Not a crypto person, I promise. This was a contained problem to solve. No hoodwinking or speculating involved. A fairly basic arbitrage bot for a newer chain. The heavy lifting was in working around the lack of developer support for facilitating arbitrage. Was perhaps one of the first arbitrage bots on chain. I did, however, lack the fundamentals needed to push further and stay competitive. More details in the repo.
 
 
-## doohickies:
+### [Move Bytecode to Expansion AST Converter](https://github.com/shirakoslurper/move/tree/main/language/move-bytecode-prover)
+
+A dive into the stages of Move compilation and prover model building. 
+
+### Anheuser Busch Freight Rerouter
+
+Team project to automate consolidation and rerouting of shipments. Private repo so no link.
+
+## simple doohickies:
 
 - [OpenTable Experience Reservation Bot](https://github.com/shirakoslurper/tablehog)
+    - Gained some familiarty with reverse engineering APIs and automating payments.
 - [SankoChain New Pair Sniper Bot](https://github.com/shirakoslurper/skyper)
+    - Very basic new-pair sniper bot for a new EVM chain. Was only viable for the first hours of existence. Vulnerable to exploitative bots.
 
-
-## skills + familiar Tech:
+## skills + familiar tech:
 
 - Rust: 
     - more than proficient
     - wrote arbisui and other bots in this
-    - promise I write more cleanly when there's no scrapping for digital pennies on the line
-    - cleanest project is private due to Anheuser Busch's confidentiality agreements with the students
 - C++: 
     - proficient
-    - did most my LeetCode in this
 - Sui Move:
     - proficient
     - wrote the transaction scripts for arbisui in this
-    - due to writing the Bytcode to AST Converter, have a deeper understanding of Move compilation than most (need a bit of a memory jog, though)
+    - due to writing the Bytcode to AST Converter, have a decent understanding of Move compilation.
 - Sui Stack:
-    - familiar with pretty much everything in terms of interacting with the chain
-    - wrote custom tooling for the Rust client to allow transaction chaining (pretty in the trenches, I'd say)
+    - familiar in terms of interacting with the chain
+    - wrote custom tooling for the Rust client to allow transaction chaining
     - wrote parsing tools for Sui data
-    - lot more I can't remember off the top of my head
 - JavasScript/TypeScript: 
     - proficient-ish 
-    - enough to scrap together a limited image editor frontend with in React
-    - would not teach people because I have bad form
 - React: 
     - proficient-ish
-    - for an suspended desktop app project - frontend works, but it ain't super pretty
-    - would not teach people because I have bad form
 - Tauri (Rust, React): 
     - proficient-ish
-    - was building the suspended desktop app project with this
 - JSON-RPC: 
     - enough to interact with it 
     - heavily utilized in arbisui (transaction endpoint)
@@ -65,64 +72,76 @@ CS Grad and art school transfer-out who hasn't got a hold of things, yet.
     - API Reverse Engineering
     - web scraping
     - automating checkout processes
-- VHDL & Verilog: 
-    - for a computer engineering class, woohoo
 - Web3 & the like: 
-    - implemented versions of Uni V2 & V3 for arbitrage simulation and volume optimization purposes
+    - implemented client side versions of Uni V2 & V3 for arbitrage simulation and volume optimization purposes
     - deep-ish Sui knowledge
     - fairly decent knowledge of general trading basics given the arbitrage bot
-    - just was generally kind of into the scene tech-wise for better or worse :/
+    - will disclaim that I am not a fan of the scene
 
-
-## also...:
+## also:
 
 - InDesign
 - PhotoShop
 - Clip Studio Paint
+- Krita
 
+Though none to a professional level.
 
-## favorite things:
+## test scores (if relevant or informative):
 
-- tiny cafes
-- [six seat restaurants](https://www.instagram.com/licchios.osaka?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
-- anywhere where it's one dude or a couple doing everything
-- toyosu market fish brokers
-    - there's a dude at [sushi komari](https://www.instagram.com/sushi_comari?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==) in tokyo who is a broker and a chef - utilizes unloved fish
-    - [this tuna buyer](https://www.instagram.com/maguro.fujita?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==) who is obsesses with his chihuahua
-    - [this walking hawaiian shirt](https://www.instagram.com/yoshiyuk_katsube?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)  who is in charge of the uni section
-- [bar mutsumi](https://www.mutsumi.nyc/barmutsumi)
-    - lovely staff. staff of okatte tanto was there last time. cool place to learn about shochu. bar snacks from hirohisa. wataru there helps at bin bin. staff know their stuff (i don't). 
-
+- LSAT: 171
+- GRE: 337
 
 ## current interests:
 
-- immersion learning Japanese:
-    - <3: 
-        - [TheMoeWay](https://learnjapanese.moe): opinionated immersion guide
-        - [donkuri](https://donkuri.github.io/learn-japanese/): opinionated immersion guide
-        - [jimaku](https://jimaku.cc/): jp subtitles
-- food:
-    - <3: 
-        - [FoodTalkCentral](https://www.foodtalkcentral.com): mostly los angeles food scene
-        - [sushilog](https://sushi-blog.com): jp sushi blog site (hidden gems, 2% foreigner type)
-        - [jd.514](https://www.instagram.com/jd.514/?utm_source=ig_web_button_share_sheet): co-owner sushi nishinokaze in mtl and fish/caviar distributor and so on - educational and opinionated on traditional foods and pottery
-        - dongbei-style korean bbq (a la xita laotaitai) - would expect to see much more of this is in the u.s. given its popularity in china. we've got yanbian style bbq skewers in the u.s., though, like feng mao in koreatown la. love korea disapora foods.
-        - the industrialization and homogenization of korean food - korean still made soy sauce at home for decades after japan and china deferred to industrial practices (the methods of making soy sauce were more conducive to them and were better done at scale), and even after the industrial soy sauce became available. however, now the majority of korean soy sauce contains hydrolyzed vegetable proteins while japan managed to phase them out of their soy sauces (for the most part).
-        - [korean traditional knowledge portal](https://koreantk.com): for older agricultural + food knowledge. so many variations on doenjang. also a lot of regional foods.
-        - [mike colameco's real food show](https://www.youtube.com/@MikeColamecosRealFoodShow): when you're exploring a restaurant scene it's good to explore what it was like before your time. it's all chefs talk about on podacast lmao. tracing lineages and tracking developments helps you develop some intuition when choosing what to keep your eye on and where to eat.
-        - [eating in translation](https://www.eatingintranslation.com): lovely for tracking food events in new york and ethnic foods
-        - [culinary backstreets](https://culinarybackstreets.com/food-tours/queens/): among the least gatekeep-y food tour sites out there
-        - [everycountryfood](https://everycountryfoodnyc.com): in the name, really
-        - [eattheworldnyc](http://www.eattheworldnyc.com) and [eattheworldla](http://www.eattheworldla.com): jared cohee does excellent work
-        - [eat something new in queens](https://www.facebook.com/groups/228217388961700/): also in the name. when you compare this and something like foodtalkcentral, you kind of realize how much class plays a part in food (the social media that people use is very indicative of class) but also how a love for food and a will to learn about it isn't restricted to those that make a little more お金. a huge chunk of americans might still only have the bear and the menu as a point of reference (often to the point of annoyance for some), but you can learn tons about food (and even more about culture) in conversation with the immigrant proprietors of much more affordable restaurants who tend to be significantly less removed from food as it was (and often is intended to be in restaurants). knowledge about seasonality, quality ingredients, treating those ingredients with respect... (sometimes not immediately apparent in the food they sell - they have to hit a balance of authenticity and marketability out her and are often limited produce wise).
-        - [salt lick podcast](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://podcasts.apple.com/ca/podcast/salt-lick-with-david-mcmillan-lesley-chesterman/id1809664414&ved=2ahUKEwjm9L-E3b-OAxUhFVkFHXmnATQQFnoECAoQAQ&usg=AOvVaw2hT4hM9qhjOfF7ZjoFMOTs): god bless david mcmillan for doing this. kind of funny to feel the terror emanate off of lesley chesterman when mcmillan goes into a not so pc - but not terribly wrong - bit. good chemistry.
-        - [max shapiro](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://podcasts.apple.com/us/podcast/air-jordan-a-food-podcast/id1437334078&ved=2ahUKEwiIp8bE3b-OAxUmEFkFHRZtEZAQFnoECB8QAQ&usg=AOvVaw3VLVC7PVXnLeEtTbMI2G3o): good chemistry. also good balance of informative and fun. good to hear someone with strong opinions. max can come off a bit snobby til you realize he puts the ethnic stuff in a difference category and will absolutely put down some cabeza (eyes and everything).
-- tea bowls (not so much anymore - was a bit of LARPing episode but was fun):
+- Learning about learning:
+    - [Justin Skycak](https://www.justinmath.com):
+        - This gave me a lot of insight into the learning traps I kept falling into (all of them). I think it's probably quite useful as a supplementary guide to character-building, too. Hoping to focus my interests and build them from the foundations up.
+- Immersion learning Japanese:
+    - [TheMoeWay](https://learnjapanese.moe): 
+        - Opinionated immersion guide. The 30 day start is *rough* if you aren't extremely motivated, persistent, or well put together. I found progressively building habits to be helpful. Anki, with its well-defined small task progressions with immediate feedback, is a great anchor habit to first establish. Immersion and sentence mining is where the real challenge begins. You have to hang in there until your grammer and vocabulary provides enough of a foundation to recognize new words in context. Some guides stress simply watching what you are interested in regardless of difficulty, but watching or listening to anything where I can understand the bulk of what is being said has been more engaging for me than a show I *should* be interested in. I find that being "interested" in the topic doesn't necessarily work as an anchor.
+    - [donkuri](https://donkuri.github.io/learn-japanese/): Opinionated immersion guide similar to the above.
+    - [ajatt](https://tatsumoto-ren.github.io/blog/table-of-contents.html): Also an opinionated immersion guide. So far, I disagree about the uselessness of audio cards - there's quite a bit of literature about phonological traces providing the strongest foundation for building vocabulary on top of. It's also something I observed in my own learning. I can better map orthographic (like kanji) representations of a word to their meaning if I first know a word phonologically (by sound) first. Learning the phonological and orthographic representations simultaneously tended to result in much worse recall. I do believe that they should be used *alongside* orthogrpahical sentence cards, however. This is super unscientific though, and these guys have much more experience than I do.
+    - [jimaku](https://jimaku.cc/): jp subtitles
+- Makgeolli Brewing:
+    - [Takjoo Journals](https://takjoo.wordpress.com): There's a PDF primer on brewing here I started my first brew with.
+    - [Moon & Lion Brewing](https://moonlionbrew.blogspot.com): Another blog! One of the earliest English language ones.
+    - [Jeff Rubidge](https://www.youtube.com/jeffrubidge): Brewing out of Brooklyn. A lot experimentation here and still uploading. Early cameos from folk who have their own breweriew now (Hana, Yunguna).
+    - [Baekusang Makgeolli](https://baekusaeng.com): Based in Korea but provides English language content. Some techniques I haven't heard of. Opening a Shopify store for nuruk, soon!
+- Food:
+    - [FoodTalkCentral](https://www.foodtalkcentral.com): 
+        - Mostly Los Angeles food scene. Can be biased towards the whale agenda. Some occassional squabbling. Steadily contributed to.
+    - [sushilog](https://sushi-blog.com): 
+        - Japnese language sushi blog. Worth popping into a translator (which will do funky things like literally translating "nigiri" to "grip", so be wary). Often very early to spots. Dead-on tabelog score projections (kind of an interesting concept). Leans traditional edomae in tastes though suprisingly open to fusion (but more so if it eschews piling luxury ingredients for something less expected like Thai flavors). Suspect about the sushi bubble. Champions good value. Also covers other fine dining to a lesser degree.
+    - [jd.514](https://www.instagram.com/jd.514/?utm_source=ig_web_button_share_sheet):
+        - Co-owner of Sushi Nishinokaze (西の風 - West Wind) in Montreal and fish/caviar distributor and so on. Educational and opinionated on food and pottery. Eats bear paws if that puts you off. Talks about crab biology and how stress affects flavor - that sort of thing.
+    - The industrialization and homogenization of Korean food:
+        - Koreans still made soy sauce at home for decades after Japan and China deferred to industrial practices (the methods of making soy sauce were more conducive to them and were better done at scale), and even after the industrial soy sauce became available. However, now the majority of korean soy sauce contains hydrolyzed vegetable proteins while japan managed to phase them out of their soy sauces (for the most part). Effects can be seen in alcohols, too! Can look to different rates of industrialization and development, occupation, and the war.
+    - [Korean Traditional Knowledge Portal](https://koreantk.com): For older agricultural + food knowledge. Many variations of doenjang. Also a lot of regional foods.
+    - [Mike Colameco's Real Food show](https://www.youtube.com/@MikeColamecosRealFoodShow): When you're exploring a restaurant scene it's good to explore what it was like before your time. It's all chefs talk about on podacasts.
+    - [eating in translation](https://www.eatingintranslation.com): Lovely for tracking traditional food events and eateries in New York.
+    - [culinary backstreets](https://culinarybackstreets.com/food-tours/queens/): Among the least gatekeep-y food tour sites out there. Folks pop up on the Roads and Kingdoms podcasts - though those drone on a bit.
+    - [everycountryfood](https://everycountryfoodnyc.com): In the name, really.
+    - [eattheworldnyc](http://www.eattheworldnyc.com) and [eattheworldla](http://www.eattheworldla.com): Jared Cohee does excellent work.
+    - [eat something new in queens](https://www.facebook.com/groups/228217388961700/):
+    Also in the name.
+    - [woobo farms](https://farmwoobo.com/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGn_RZAqiKoDZTdlKCdT6Kl38mw3kWPbBbvUAhJKG9gmntAKWsUxmHEZ-j7HY0_aem_ws_aZtY_pv2DM3ELw0jVog): Cultivator of Korean heritage rice varieties (availability greatly reduced due to history). Uses snails in place of pesticide.
+- Tea Bowls (not so much anymore - was a bit of LARPing episode but was fun):
+    - I took a particular interest in Korean-influenced ceramics for a bit.
     - <3:
-        - [Robert Yellin's Yakimono Blog](http://www.e-yakimono.net): well fleshed out and rare english language source on modern jp potters
-        - [Misao's Art World: Ceramics](https://www.neuartro.net/陶磁器/): jp blog summary of ceramics + author's favorite pieces
+        - [Robert Yellin's Yakimono Blog](http://www.e-yakimono.net): Well fleshed out and rare English language source on modern Japanese potters.
+        - [Misao's Art World: Ceramics](https://www.neuartro.net/陶磁器/): Japanese language blog summary of ceramics + author's favorite pieces.
 
+## restaurants i want to visit:
+
+- [This six seat Sicilian restaurant in Osaka](https://www.instagram.com/licchios.osaka?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
+- [Sushi Komari](https://www.instagram.com/sushi_comari?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==). Tokyo. Chef is a fish broker - utilizes unloved fish. Barely gets any sleep.
+- [Beba](https://restaurantbeba.ca) in Montreal. Ari Schor is a singular king.
+- etc.
 
 ## things im looking forward to:
 
-- lunch at [jo nyc](https://jo-newyork.com)
+- Lunch at [jo nyc](https://jo-newyork.com)
+    - update: was awesome
+
+![](./assets/misc/jo.JPG)

@@ -2,11 +2,11 @@
 
 What I could scrounge.
 
-I did this for PancakeBunny/Mound Finance (they never used it).
+I did this for PancakeBunny/Mound Finance.
 
 ![](./assets/design/auto_compounding_vaults-01-2.png)
 
-I did some stuff for a uni magazine, but I don't have any of the files saved. I have screenshots from where they're uploaded! There's a little popup thing that keep getting in the way, though :/. The published versions are on pages 12-17 and 50-54 [here](https://issuu.com/colourmag.wustl/docs/colour_fl20). I think they're kinda nice and clean. These spreads were done in Adobe InDesign.
+I did some stuff for a uni magazine, but I don't have any of the files saved. I have screenshots from where they're uploaded. There's a little popup thing that keep getting in the way, though. The published versions are on pages 12-17 and 50-54 [here](https://issuu.com/colourmag.wustl/docs/colour_fl20). These spreads were done in Adobe InDesign.
 
 ![](./assets/design/tyler01.png)
 
@@ -18,7 +18,7 @@ I did some stuff for a uni magazine, but I don't have any of the files saved. I 
 
 ![](./assets/design/jaitsiri03.png)
 
-Also, I thought this typeface project came out pretty nice save for the tiny misalignment!
+I thought this typeface project came out pretty nice save for a small misalignment.
 
 ![](./assets/design/modular.jpg)
 

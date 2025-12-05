@@ -1,12 +1,8 @@
 # Sketches
 
-I plan to scan more of my notebook scraps!
+I plan to scan some more.
 
-![](./assets/sketches/shadetest.PNG)
-
-![](./assets/sketches/twammy.PNG)
-
-![](./assets/sketches/luv.png)
+## Mix monochrome: 
 
 ![](./assets/sketches/blast.jpg)
 
@@ -22,11 +18,65 @@ I plan to scan more of my notebook scraps!
 
 ![](./assets/sketches/2025-08-04-01.png)
 
-![](./assets/sketches/2025-08-03-02.png)
-
 ![](./assets/sketches/2024-08-04-03.png)
 
+
+## Color:
+
+![](./assets/sketches/shadetest.PNG)
+
+![](./assets/sketches/twammy.PNG)
+
+![](./assets/sketches/luv.png)
+
+
+## Digital thumbnail sketches:
+
 ![](./assets/sketches/2025-08-05-06.png)
+
+![](./assets/sketches/duo_far.png)
+
+![](./assets/sketches/duo_close.png)
+
+![](./assets/sketches/she_wolf.png)
+
+![](./assets/sketches/looming.png)
+
+![](./assets/sketches/crypt.png)
+
+![](./assets/sketches/juice_box.png)
+
+![](./assets/sketches/pillow_time.png)
+
+![](./assets/sketches/matrix.png)
+
+![](./assets/sketches/wind_up_monk.png)
+
+![](./assets/sketches/posed_fashion.png)
+
+![](./assets/sketches/cutout_body.png)
+
+![](./assets/sketches/rilo_kiley.png)
+
+![](./assets/sketches/barter.png)
+
+![](./assets/sketches/bob.png)
+
+![](./assets/sketches/hair.png)
+
+![](./assets/sketches/island.png)
+
+![](./assets/sketches/pantsu.png)
+
+## Some cards for elders via [Heart of Dinner](https://www.heartofdinner.org)
+
+![](./assets/sketches/HOD_1.jpg)
+
+![](./assets/sketches/HOD_2.jpg)
+
+![](./assets/sketches/HOD_3.jpg)
+
+##Call.  More 
 
 ![](./assets/sketches/dreams.jpg)
 
@@ -40,28 +90,9 @@ I plan to scan more of my notebook scraps!
 
 ![](./assets/sketches/smutt.png)
 
-<!-- ![](./assets/sketches/scan0014.png)
-
-![](./assets/sketches/scan0015.png)
-
-![](./assets/sketches/scan0015(2).png) -->
-
 ![](./assets/sketches/scan0016.png)
 
 ![](./assets/sketches/scan0066.jpg)
-
-
-<!-- ![](./assets/sketches/scan0017.png)
-
-![](./assets/sketches/scan0018.png)
-
-![](./assets/sketches/scan0019.jpg)
-
-![](./assets/sketches/scan0020.jpg)
-
-![](./assets/sketches/scan0021.jpg)
-
-![](./assets/sketches/scan0022.jpg) -->
 
 ![](./assets/sketches/scan0023.jpg)
 
@@ -72,8 +103,6 @@ I plan to scan more of my notebook scraps!
 ![](./assets/sketches/scan0026.jpg)
 
 ![](./assets/sketches/scan0027.jpg)
-
-<!-- ![](./assets/sketches/scan0028.jpg) -->
 
 ![](./assets/sketches/scan0029.jpg)
 
@@ -99,8 +128,6 @@ I plan to scan more of my notebook scraps!
 
 ![](./assets/sketches/scan0045.jpg)
 
-<!-- ![](./assets/sketches/scan0047.jpg) -->
-
 ![](./assets/sketches/scan0048.jpg)
 
 ![](./assets/sketches/scan0049.jpg)
@@ -111,16 +138,4 @@ I plan to scan more of my notebook scraps!
 
 ![](./assets/sketches/scan0052.jpg)
 
-<!-- ![](./assets/sketches/scan0054.jpg) -->
-
 ![](./assets/sketches/scan0055.jpg)
-
-<!-- ![](./assets/sketches/scan0058.jpg)
-
-![](./assets/sketches/scan0060.jpg)
-
-![](./assets/sketches/scan0063.jpg)
-
-![](./assets/sketches/scan0064.jpg) -->
-
-![](./assets/sketches/scan0065.jpg)

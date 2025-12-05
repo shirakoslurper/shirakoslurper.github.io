@@ -20,8 +20,6 @@ Many major styles of Japanese pottery originate with Korean ceramicists (Imjin/T
 
 There's the classic saying "Raku first, Hagi second, Karatsu third" but there seems to be another variant "Ido first, Hagi second, Karatsu third" - Ido being the imported Korean ware that preceded the natively produced wares by "imported" Korean ceramicists and their descendants and students.
 
-Ido being sort of temporally limited, true examples of it are rare so perhaps that's why the Raku version of the saying is dominant? An acccesibility thing perhaps? Popularity? I wonder which saying came first and which enthusiast circle they respectively guide.
-
 Anyways, with the reverence of tea culture and tea culture history in Japan + the Korean ceramics intertwined roots of the Mingei movement, there seems to have been fertile ground to produce artists who look to Korean techniques and styles and strive to faithfully recreate them.
 
 My entry point was [Hosokawa Morihiro](http://www.e-yakimono.net/html/hosokawa-morihiro-jt.html) (coincidentally a former Prime Minister of Japan) who strived to make works inspired by the Momoyama Period and the Korean Joseon Dynasty Period.
@@ -34,7 +32,7 @@ His mentors and inspirations included:
 
 Hosting collections by further artists inspired by Korean wares is [Gallery Ichibankan](https://www.1bankan.com/en?srsltid=AfmBOoqvuwAeKh4EzlI0cfzx_Ug9emSHW8coNHpsOMbWDVyB5R-2Gty1), as one of the directors has a personal interest in Joseon wares:
 
-- [Shintaro Uchimura](https://www.1bankan.com/en/collections/uchimura-shintaro): Joseon dynasty inspired ans karatsu wares
+- [Shintaro Uchimura](https://www.1bankan.com/en/collections/uchimura-shintaro): Joseon-dynasty-inspired and karatsu wares
 - [Takesue Hiomi](https://www.1bankan.com/en/collections/takesue-hiomi): a student of Togo Kobayashi, also on Tsushima island producing Joseon dynasty inspired wares
 - [Munehiko Maruta](https://www.1bankan.com/en/blogs/artists/munehiko-maruta): produced Ido-inspired and Karatsu ware
 - [Yasumoto Kajiwars](https://www.1bankan.com/en/blogs/artists/yasumoto-kajihara): produces old Karatsu and holds and interesy in ancient Korean pottery
